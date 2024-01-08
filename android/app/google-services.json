@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "565613316848",
+    "project_id": "yumebazaar-64dc0",
+    "storage_bucket": "yumebazaar-64dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565613316848:android:bcde043fecceb247a7d035",
+        "android_client_info": {
+          "package_name": "com.example.YumeBazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565613316848-h5k7eq8ks7jlmul7a2kcmfocps4ooo92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.YumeBazaar",
+            "certificate_hash": "0aa0b7aaa1199746ec0469e4ad3cfddc944de940"
+          }
+        },
+        {
+          "client_id": "565613316848-jtl40hpm06aqe1of8viqfm55nn9qb8g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPeMc65Mn_zAr31JuyuLovYPxoyksNuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565613316848-jtl40hpm06aqe1of8viqfm55nn9qb8g6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565613316848-27u2d7knk5jp9pv3f9oeec45qau97fmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cwtEcommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
